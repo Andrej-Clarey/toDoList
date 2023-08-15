@@ -1,0 +1,47 @@
+/* form{
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  font-weight: 900;
+  float: center;
+} */
+
+.error{
+  background-color: red;
+}
+
+.button{
+  font-family: cursive;
+  background-color: darkgreen;
+  color: whitesmoke;
+  padding: 10px;
+  margin: 20px;
+}
+
+input{
+  font-family: copperplate;
+  display: flex;
+  position: relative;
+  align-items: center;
+  /* size: 50px; */
+  background-color: darkgreen;
+  color: whitesmoke;
+  padding: 15px;
+}
+
+label{
+  display: flex;
+  position: relative;
+  align-items: center;
+  font-family: cursive;
+  font-weight: 900;
+  display: flex;
+  padding: 15px;
+}
+
+h2{
+  background-color: darkslategrey;
+  color: whitesmoke;
+  padding: 30px;
+  border-radius: 50px;
+}
