@@ -9,3 +9,12 @@ li{
   background-color: darkred;
   
 }
+
+input[type="checkbox"]:checked + span {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.completed{
+  text-decoration: line-through;
+}
