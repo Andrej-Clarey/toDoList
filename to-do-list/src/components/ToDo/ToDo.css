@@ -12,7 +12,7 @@ li{
 
 input[type="checkbox"]:checked + span {
   text-decoration: line-through;
-  color: grey;
+  color: black;
 }
 
 .completed{
